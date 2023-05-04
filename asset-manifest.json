@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MohamedS16/weatherly.git/static/css/main.f4ae936d.css",
+    "main.js": "/MohamedS16/weatherly.git/static/js/main.426999a9.js",
+    "index.html": "/MohamedS16/weatherly.git/index.html",
+    "main.f4ae936d.css.map": "/MohamedS16/weatherly.git/static/css/main.f4ae936d.css.map",
+    "main.426999a9.js.map": "/MohamedS16/weatherly.git/static/js/main.426999a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4ae936d.css",
+    "static/js/main.426999a9.js"
+  ]
+}
